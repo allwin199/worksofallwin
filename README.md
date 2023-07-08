@@ -6,7 +6,7 @@
 
 #### Github Stats 📊
 
-[![Prince Allwin's github stats](https://github-readme-stats.vercel.app/api?username=worksofallwin&show_icons=true&theme=dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Prince Allwin's github stats](https://github-readme-stats.vercel.app/api?username=worksofallwin&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 worksofallwin/worksofallwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
